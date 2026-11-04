@@ -3,7 +3,7 @@
   "app_name": "Andromeda FM-TORRES RS",
   "logo_url": "https://i.postimg.cc/TPxyptmc/logotipo-radioweb-streaming-transparente.png",
   "background_url": "https://i.postimg.cc/8kLWZV5D/fundo-aplicativo01pag-inicial.png",
-  "bg_tint_color": "",
+  "bg_tint_color": "#ffffff",
   "bg_tint_opacity": 0.00,
   "live_badge_text": "Ao Vivo",
   "live_badge_color": "#09001d",
