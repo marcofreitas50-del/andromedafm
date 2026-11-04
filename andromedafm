@@ -1,8 +1,8 @@
 {
   "stream_url": "https://cast5.hoost.com.br:8217/stream",
-  "app_name": "Andromeda FM",
-  "logo_url": "https://i.postimg.cc/JnNgJSSn/ic-launcher-playstore.png",
-  "background_url": "https://i.postimg.cc/dVhxnhgm/fundof.jpg",
+  "app_name": "Andromeda FM - TORRES RS",
+  "logo_url": "https://i.postimg.cc/bvFHfHX6/logotipo-radioweb-streaming-transparente800.png",
+  "background_url": "https://i.postimg.cc/8kLWZV5D/fundo-aplicativo01pag-inicial.png",
   "bg_tint_color": "#00254d",
   "bg_tint_opacity": 0.05,
   "live_badge_text": " Ao Vivo",
