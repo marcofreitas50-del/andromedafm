@@ -4,7 +4,7 @@
   "logo_url": "https://i.postimg.cc/TPxyptmc/logotipo-radioweb-streaming-transparente.png",
   "background_url": "https://i.postimg.cc/8kLWZV5D/fundo-aplicativo01pag-inicial.png",
   "bg_tint_color": "#00254d",
-  "bg_tint_opacity": 0.05,
+  "bg_tint_opacity": 0.00,
   "live_badge_text": " ",
   "live_badge_color": "#09001d",
   "accent_color": "#000d13",
