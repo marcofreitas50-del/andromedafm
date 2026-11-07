@@ -17,7 +17,7 @@
   "enable_metadata": true,
   "enable_album_art": true,
   "enable_album_view": true,
-  "banner_interval_ms": 7000,
+  "banner_interval_ms": 5000,
   "sponsor_label": "COLABORE E AJUDE SEU PET",
   "enable_live_badge": true,
 
