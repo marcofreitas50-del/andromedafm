@@ -18,7 +18,7 @@
   "enable_album_art": true,
   "enable_album_view": true,
   "banner_interval_ms": 5000,
-  "sponsor_label": "<strong>COLABORA COM SEU PET</strong>",
+  "sponsor_label": "COLABORE COM SEU PET"
   "enable_live_badge": true,
 
   "banners": [
